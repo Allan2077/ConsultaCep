@@ -1,0 +1,18 @@
+Sempre que for ler um arquivo em node não esquecer de entrar na pasta do arquivo
+exemplo a pasta 'src' que contém o 'main.js' para acessar precisa estar dentro da
+pasta e no prompt digitar 'node main.js'
+
+
+
+1. npm init
+
+'npm init' inicializa a pasta onde vc está no momento para ela virar um projeto do 
+npm
+Pressionar enter até aparecer a opção 'Is this OK?' digitar 'yes'
+Pronto foi criado  o 'package.json' todas as dependencias que vc baixar vai estar instalada
+nesse 'package.json'
+
+
+2. npm install bootstrap
+
+O nosso queridinho css que facilita a criação de interface 'Layout' conferir no 'package.json'
