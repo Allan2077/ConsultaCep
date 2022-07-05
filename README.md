@@ -1,4 +1,4 @@
-![consultaCep](https://user-images.githubusercontent.com/63480432/177412809-f9046cc0-e235-47f0-bfdf-71edfe02a2ab.png)
+![consultaCep](https://user-images.githubusercontent.com/63480432/177429640-ec070b1d-5bea-451c-8a30-8fa5c2934977.png)
 # README
 
 <p align="center"> Consulta Cep</p>
@@ -13,12 +13,12 @@
 
 <p>Uma aula da HCode, utilizei para treinar um pouco JavaScript. O consulta cep
 como o próprio nome diz, após adicionar o cep os campos são todos preechido automaticamente
-. A consulta é feita através de uma Api gerada pelo via-cep </p>
+. A consulta é feita através de uma Api gerada pelo via-cep, estilizei para dar um toquinho final. </p>
 
 
 # Tecnologia
 
-Html&Css e JavaScript
+Html&Css, Bootstrap 5 e JavaScript
 
 # Autor
 
