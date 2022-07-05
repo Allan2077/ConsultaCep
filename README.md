@@ -10,9 +10,9 @@
 
 # SOBRE 
 
-<p>Uma aula da HCode, utilizei para treinar um pouco JavaScript.<p>O consulta cep
-como o próprio nome diz, após adicionar o cep os campos são todos preechidos automaticamente<p>
-.A consulta é feita através de uma Api gerada pelo via-cep </p>
+<p>Uma aula da HCode, utilizei para treinar um pouco JavaScript. O consulta cep
+como o próprio nome diz, após adicionar o cep os campos são todos preechido automaticamente
+. A consulta é feita através de uma Api gerada pelo via-cep </p>
 
 
 # Tecnologia
@@ -21,4 +21,6 @@ Html&Css e JavaScript
 
 # Autor
 
-HCode
+#HCode
+
+https://www.youtube.com/watch?v=Pi6wkdU2vR4&t=757s&ab_channel=hcode
