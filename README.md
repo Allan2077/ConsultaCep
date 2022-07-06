@@ -1,4 +1,3 @@
-![consultaCep](https://user-images.githubusercontent.com/63480432/177429640-ec070b1d-5bea-451c-8a30-8fa5c2934977.png)
 # README
 
 <p align="center"> Consulta Cep</p>
@@ -8,6 +7,13 @@
 <a href="#tecnologia">Tecnologias *</a>
 <a href="#autor">Autor</a>
 </p>
+
+
+
+![consultaCep](https://user-images.githubusercontent.com/63480432/177429640-ec070b1d-5bea-451c-8a30-8fa5c2934977.png)
+
+
+
 
 # SOBRE 
 
